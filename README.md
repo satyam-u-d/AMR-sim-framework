@@ -82,7 +82,7 @@
 
 <h2>Sampele Warehouse Simulation Layouts</h2>
 <p align="center">
-<img src="img/sample_layouts1.png" width="80%" /><br>
+<img src="img/sample_layouts2.png" width="80%" /><br>
 </p>
 
 <h2>Sampele Lab Simulation Layouts</h2>
