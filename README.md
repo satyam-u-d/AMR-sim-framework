@@ -80,12 +80,12 @@
 <img src="img/gen_robo_data.png" width="85%" /><br>
 </p>
 
-<h2>Sampele Warehouse Simulation Layouts</h2>
+<h2>Sampele Warehouse Simulation Scenarios</h2>
 <p align="center">
 <img src="img/sample_layouts2.png" width="80%" /><br>
 </p>
 
-<h2>Sampele Lab Simulation Layouts</h2>
+<h2>Sampele Lab Simulation Scenarios</h2>
 
 <p align="center">
 <img src="img/sample_layouts1.png" width="80%" /><br>
