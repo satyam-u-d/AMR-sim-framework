@@ -1,4 +1,4 @@
-<h1>Development of an Autonomous Simulation, Testing and Data Generation Framework for Mobile Robots within Randomly Generated </h1>
+<h1>Development of an Autonomous Simulation, Testing and Data Generation Framework for Mobile Robots within Randomly Generated Scenarios</h1>
 
 <h2>Description</h2>
 <b>Create an autonomous framework utilizing the NVIDIA Omniverse Isaac Sim with the digital twin concept as its foundation to generate mobile robot path datasets and navigation testing.
